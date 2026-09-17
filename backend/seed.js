@@ -15,8 +15,8 @@ const connection = mysql.createConnection({
 // Asegúrate de ejecutar primero initDb.js y luego seed.js para sembrar los datos correctamente.
 
 // Hashear contraseñas
-const adminPassword = bcrypt.hashSync('haymanot', 10); // Hashear contraseña del admin
-const alumnoPassword = bcrypt.hashSync('haymanot2', 10); // Hashear contraseña del alumno
+const adminPassword = bcrypt.hashSync('ejemplo', 10); // Hashear contraseña del admin
+const alumnoPassword = bcrypt.hashSync('ejemplo2', 10); // Hashear contraseña del alumno
 
 const seedSQL = `
 -- Insertar sample de carreras
