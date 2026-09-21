@@ -43,7 +43,7 @@ body::before {
 h1, h2, h3, h4, h5, h6 {
   color: #2c3e50; /* Azul oscuro para jerarquía visual */
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 1.1rem;
   font-weight: 600; /* Peso semi-bold para destacar */
 }
 
