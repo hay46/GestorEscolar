@@ -48,14 +48,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.6rem; /* Tamaño grande para el título principal */
+  font-size: 2.5rem; /* Tamaño grande para el título principal */
   text-align: center; /* Centrado para impacto visual */
   margin-top: 2rem;
 }
 
 /* Párrafos */
 p {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.6rem;
   font-size: 1rem; /* Tamaño estándar para texto */
   color: #555; /* Gris oscuro para menor intensidad */
 }
